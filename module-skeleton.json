@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-experimentation-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-experimentation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-experimentation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/experimentation.md",
+  "presentationPlan": "projects/cms/nuxt/experimentation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
